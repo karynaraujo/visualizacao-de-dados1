@@ -8,4 +8,4 @@
 
 A visualização interativa está disponível abaixo:
 
-[https://karynaraujo.github.io/visualizacao-de-dados/lab7-projeto.html](https://karynaraujo.github.io/visualizacao-de-dados/lab7-projeto.html)
+[https://karynaraujo.github.io/visualizacao-de-dados1/lab7-projeto.html](https://karynaraujo.github.io/visualizacao-de-dados1/lab7-projeto.html)
